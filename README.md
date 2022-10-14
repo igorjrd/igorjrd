@@ -1,16 +1,19 @@
-### Hi there 👋
+### Igor Jordão Marques
 
-<!--
-**igorjrd/igorjrd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Materials Science  PhD Student at UFPE
+- Current subjects: High-Entropy Alloys, Phase transitions, Additive Manufacturing, Microscopy data processing
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://www.researchgate.net/profile/Igor-Marques-6">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=igorjrd&show_icons=true&theme=github_dark&include_all_commits=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=igorjrd&layout=compact&langs_count=4&theme=github_dark"/>
+</div>
+
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
+  </div><br>
+          
