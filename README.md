@@ -2,7 +2,6 @@
 
 - Backend developer
 - Materials Science PhD Student at UFPE
-- Visiting Scholar at Ohio State University
 - Current subjects: High-Entropy Alloys, Phase transitions, Additive Manufacturing, Microscopy data processing
 
 
